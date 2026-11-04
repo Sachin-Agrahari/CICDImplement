@@ -1,0 +1,17 @@
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Infrastructure.deps.json
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Infrastructure.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Infrastructure.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Application.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Domain.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Application.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\bin\Debug\net8.0\CICD.Domain.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.csproj.AssemblyReference.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.AssemblyInfoInputs.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.AssemblyInfo.cs
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Inf.BBF19EF2.Up2Date
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\refint\CICD.Infrastructure.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\CICD.Infrastructure.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Infrastructure\obj\Debug\net8.0\ref\CICD.Infrastructure.dll

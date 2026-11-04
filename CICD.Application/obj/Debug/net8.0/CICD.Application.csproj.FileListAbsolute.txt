@@ -1,0 +1,15 @@
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\bin\Debug\net8.0\CICD.Application.deps.json
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\bin\Debug\net8.0\CICD.Application.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\bin\Debug\net8.0\CICD.Application.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\bin\Debug\net8.0\CICD.Domain.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\bin\Debug\net8.0\CICD.Domain.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.csproj.AssemblyReference.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.AssemblyInfoInputs.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.AssemblyInfo.cs
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.csproj.CoreCompileInputs.cache
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.App.269F7350.Up2Date
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\refint\CICD.Application.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\ref\CICD.Application.dll

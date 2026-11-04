@@ -34,7 +34,7 @@ namespace CICD.Infrastructure.Repositories
              
             using var reader = await cmd.ExecuteReaderAsync(); 
 
-            while (await reader.ReadAsync())
+            while (await reader.ReadAsync()) 
             {
                 employees.Add(new En_Employee
                 {

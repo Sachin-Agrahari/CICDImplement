@@ -11,8 +11,8 @@ namespace CICD.Domain.Entities
         public string CODE { get; set; } = string.Empty;
 
         public string EMPL_NAME { get; set; } = string.Empty;
-
         public string FATHER_NAME { get; set; } = string.Empty;
+        public string MOTH_NAME { get; set; } = string.Empty;
 
         public string ADD1 { get; set; } = string.Empty;
        

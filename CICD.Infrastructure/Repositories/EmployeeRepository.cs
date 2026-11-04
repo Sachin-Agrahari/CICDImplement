@@ -26,7 +26,7 @@ namespace CICD.Infrastructure.Repositories
             using var con = _factory.CreateConnection();
 
             const string query = @"
-                    SELECT CODE,EMPL_NAME,FATHER_NAME,ADD1 FROM EMPLOYEE WHERE CODE  ='RA000659'";
+                    SELECT CODE,EMPL_NAME,FATHER_NAME,MOTH_NAME,ADD1 FROM EMPLOYEE WHERE CODE  ='RA000659'";
 
             using var cmd = new SqlCommand(query, con);
 
@@ -41,6 +41,7 @@ namespace CICD.Infrastructure.Repositories
                     CODE = reader["CODE"]?.ToString() ?? "",
                     EMPL_NAME = reader["EMPL_NAME"]?.ToString() ?? "",
                     FATHER_NAME = reader["FATHER_NAME"].ToString() ?? "",
+                    MOTH_NAME = reader["MOTH_NAME"].ToString() ?? "",
                     ADD1 = reader["ADD1"].ToString() ?? ""
                 });
             }

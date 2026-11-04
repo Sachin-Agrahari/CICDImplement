@@ -79,3 +79,4 @@ D:\Sachin Agrahari\Sachin Core\CICDProject\CICDProject\bin\Debug\net8.0\CICD.Inf
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICDProject\bin\Debug\net8.0\CICD.Domain.pdb
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICDProject\bin\Debug\net8.0\CICD.Infrastructure.pdb
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICDProject\bin\Debug\net8.0\CICD.Application.pdb
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICDProject\obj\Debug\net8.0\CICDProject.sourcelink.json

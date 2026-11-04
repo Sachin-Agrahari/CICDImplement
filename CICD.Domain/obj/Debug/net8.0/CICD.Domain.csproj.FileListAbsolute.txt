@@ -9,3 +9,4 @@ D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Domain\obj\Debug\net8.0\CICD.Dom
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Domain\obj\Debug\net8.0\refint\CICD.Domain.dll
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Domain\obj\Debug\net8.0\CICD.Domain.pdb
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Domain\obj\Debug\net8.0\ref\CICD.Domain.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Domain\obj\Debug\net8.0\CICD.Domain.sourcelink.json

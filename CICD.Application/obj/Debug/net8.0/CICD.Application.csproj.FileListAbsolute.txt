@@ -13,3 +13,4 @@ D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CIC
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\refint\CICD.Application.dll
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.pdb
 D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\ref\CICD.Application.dll
+D:\Sachin Agrahari\Sachin Core\CICDProject\CICD.Application\obj\Debug\net8.0\CICD.Application.sourcelink.json

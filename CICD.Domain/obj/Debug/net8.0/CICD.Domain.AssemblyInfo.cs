@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CICD.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7996e68112715b9bdc8973d98e6dca03e28dda4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b2e785f6c12093dee012b6f3047fa534acc8ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CICD.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CICD.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

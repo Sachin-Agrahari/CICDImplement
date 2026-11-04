@@ -31,8 +31,8 @@ namespace CICD.Infrastructure.Repositories
             using var cmd = new SqlCommand(query, con);
 
             await con.OpenAsync();
-
-            using var reader = await cmd.ExecuteReaderAsync();
+             
+            using var reader = await cmd.ExecuteReaderAsync(); 
 
             while (await reader.ReadAsync())
             {

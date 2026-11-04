@@ -9,6 +9,6 @@ namespace CICD.Application.Interfaces
 {
     public interface IEmployeeRepository
     {
-        Task<List<Employee>>  GetAllAsync();
+        Task<List<En_Employee>>  GetAllAsync();
     }
 }

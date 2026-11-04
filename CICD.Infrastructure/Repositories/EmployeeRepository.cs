@@ -19,9 +19,9 @@ namespace CICD.Infrastructure.Repositories
             _factory = factory;
         }
 
-        public async Task<List<Employee>> GetAllAsync()
+        public async Task<List<En_Employee>> GetAllAsync()
         {
-            var employees = new List<Employee>();
+            var employees = new List<En_Employee>();
 
             using var con = _factory.CreateConnection();
 
@@ -36,7 +36,7 @@ namespace CICD.Infrastructure.Repositories
 
             while (await reader.ReadAsync())
             {
-                employees.Add(new Employee
+                employees.Add(new En_Employee
                 {
                     CODE = reader["CODE"]?.ToString() ?? "",
                     EMPL_NAME = reader["EMPL_NAME"]?.ToString() ?? "",

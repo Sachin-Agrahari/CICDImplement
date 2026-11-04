@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CICD.Domain.Entities
 {
-    public class Employee
+    public class En_Employee
     {
         public string CODE { get; set; } = string.Empty;
 

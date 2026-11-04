@@ -38,7 +38,7 @@ namespace CICD.Infrastructure.Repositories
             {
                 employees.Add(new En_Employee
                 {
-                    CODE = reader["CODE"]?.ToString() ?? "",
+                    //CODE = reader["CODE"]?.ToString() ?? "",
                     EMPL_NAME = reader["EMPL_NAME"]?.ToString() ?? "",
                     FATHER_NAME = reader["FATHER_NAME"].ToString() ?? "",
                     MOTH_NAME = reader["MOTH_NAME"].ToString() ?? "",
